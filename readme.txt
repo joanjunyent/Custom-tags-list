@@ -5,11 +5,11 @@ Author URI: http://junyent.org/
 Contributors: jjunyent
 Donate link: http://projectes.junyent.org/
 Plugin URI: http://projectes.junyent.org/custom-tags-list/
-Version: 0.2
+Version: 0.2.1
 Tags: tags
 Requires at least: 2.3
 Tested up to: 3.6
-Stable tag: 0.2
+Stable tag: 0.2.1
 
 == Description ==
 
@@ -69,6 +69,7 @@ This plugin is free software. You can redistribute it and/or modify it under the
 == Changelog ==
 v0.1 = Initial release
 v.0.2 = Metadata update
+v.0.2.1 = Fixing deployment error
 
 
 == Credits and Acknowledgments ==

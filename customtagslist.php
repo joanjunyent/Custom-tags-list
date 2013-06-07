@@ -3,7 +3,7 @@
 Plugin Name: Custom Tags List
 Plugin URI: http://www.junyent.org/blog/2006/05/20/around-this-date-in-the-past-wordpress-widget/
 Description:  It allows to display highly customizable tags lists.
-Version: 0.2
+Version: 0.2.1
 Author: Joan Junyent Tarrida
 Contributors: jjunyent
 Author URI: http://www.junyent.org/
