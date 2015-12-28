@@ -8,7 +8,7 @@ Plugin URI: http://projectes.junyent.org/custom-tags-list/
 Version: 0.2.1
 Tags: tags
 Requires at least: 2.3
-Tested up to: 3.6
+Tested up to: 4.4
 Stable tag: 0.2.1
 
 == Description ==
@@ -26,23 +26,23 @@ Place the desired function on your theme wherever you want your tag list to appe
 
 `<?php the_tags_rss(', ' , ' and '); ?>`
 	Shows a tags list with links to the rss feed.
-	
+
 `<?php the_tags_external('http://wordpress.com/tag/' , 'Find related posts on Wordpress.com', ' , ' and '); ?>`
-	Shows a tags list with links to any external social site. 
+	Shows a tags list with links to any external social site.
 
 You can also make use of the examples included uncomenting the line include "("examples.php");"
-	
+
 = Function parameters =
 
 	$url = URL to the social webservice you want to link. Defaults to 'http://wordpress.com/tag/'.
 	$title = Title for the link. Defaults to 'Find related posts on Wordpress.com'.
 	$separator = Separator for the tags. Defaults to ' , '.
 	$last_separator = Separator for the last tag. Defaults to ' and '.
-	 
+
 = ToDo =
 
 	Create widgets for the tags lists.
-	
+
 = Credits and Acknowledgments =
 
 This plugin is based on:
@@ -69,24 +69,18 @@ None yet
 None yet
 
 
-	
+
 == License ==
-	
+
 This plugin is free software. You can redistribute it and/or modify it under the terms of the GPL License (don't remove credits to author, please). See license.txt for details
 
 
 == Changelog ==
-= 0.2.1 = 
+= 0.2.1 =
 Fixing deployment error
 
-= 0.2 = 
+= 0.2 =
 Metadata update
 
-= 0.1 = 
+= 0.1 =
 Initial release
-
-
-
-
-
-
